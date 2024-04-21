@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/7yar908taiir9dvk?svg=true)](https://ci.appveyor.com/project/gas1995/api-ci)
+[![Build status](https://ci.appveyor.com/api/projects/status/astv85ti2i7t76nm?svg=true)](https://ci.appveyor.com/project/gas1995/postman-echo)
